@@ -1,0 +1,22 @@
+.Header{
+    display: flex;
+    justify-content: center;
+    color: rgb(130, 12, 120);
+    
+
+}
+.form{
+    display: flex;
+    justify-content: center;
+}
+ .search-box{
+    border: purple;
+    padding: 1rem;
+    background-color: lightblue
+ }
+ .submit-button{
+    background-color: greenyellow;
+ }
+ .html, body{
+    background-color: rgb(7, 32, 32);
+ }
